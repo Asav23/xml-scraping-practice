@@ -1,0 +1,111 @@
+<adoptions>
+    <adoption>
+        <adoption_date>2024-01-12</adoption_date>
+        <species>Dog</species>
+        <breed>Labrador</breed>
+        <age>3</age>
+        <gender>Male</gender>
+        <size>Large</size>
+        <region>Leinster</region>
+        <adoption_fee>250</adoption_fee>
+    </adoption>
+
+    <adoption>
+        <adoption_date>2024-01-25</adoption_date>
+        <species>Cat</species>
+        <breed>Siamese</breed>
+        <age>2</age>
+        <gender>Female</gender>
+        <size>Small</size>
+        <region>Munster</region>
+        <adoption_fee>150</adoption_fee>
+    </adoption>
+
+    <adoption>
+        <adoption_date>2024-02-10</adoption_date>
+        <species>Dog</species>
+        <breed>Beagle</breed>
+        <age>4</age>
+        <gender>Female</gender>
+        <size>Medium</size>
+        <region>Connacht</region>
+        <adoption_fee>220</adoption_fee>
+    </adoption>
+
+    <adoption>
+        <adoption_date>2024-02-18</adoption_date>
+        <species>Rabbit</species>
+        <breed>Holland Lop</breed>
+        <age>1</age>
+        <gender>Male</gender>
+        <size>Small</size>
+        <region>Ulster</region>
+        <adoption_fee>60</adoption_fee>
+    </adoption>
+
+    <adoption>
+        <adoption_date>2024-03-05</adoption_date>
+        <species>Dog</species>
+        <breed>German Shepherd</breed>
+        <age>5</age>
+        <gender>Male</gender>
+        <size>Large</size>
+        <region>Munster</region>
+        <adoption_fee>300</adoption_fee>
+    </adoption>
+
+    <adoption>
+        <adoption_date>2024-03-22</adoption_date>
+        <species>Cat</species>
+        <breed>Maine Coon</breed>
+        <age>3</age>
+        <gender>Female</gender>
+        <size>Large</size>
+        <region>Leinster</region>
+        <adoption_fee>200</adoption_fee>
+    </adoption>
+
+    <adoption>
+        <adoption_date>2024-04-11</adoption_date>
+        <species>Dog</species>
+        <breed>Poodle</breed>
+        <age>2</age>
+        <gender>Female</gender>
+        <size>Medium</size>
+        <region>Ulster</region>
+        <adoption_fee>280</adoption_fee>
+    </adoption>
+
+    <adoption>
+        <adoption_date>2024-04-27</adoption_date>
+        <species>Cat</species>
+        <breed>Persian</breed>
+        <age>6</age>
+        <gender>Male</gender>
+        <size>Small</size>
+        <region>Connacht</region>
+        <adoption_fee>130</adoption_fee>
+    </adoption>
+
+    <adoption>
+        <adoption_date>2024-05-08</adoption_date>
+        <species>Rabbit</species>
+        <breed>Mini Rex</breed>
+        <age>2</age>
+        <gender>Female</gender>
+        <size>Small</size>
+        <region>Leinster</region>
+        <adoption_fee>55</adoption_fee>
+    </adoption>
+
+    <adoption>
+        <adoption_date>2024-05-21</adoption_date>
+        <species>Dog</species>
+        <breed>Bulldog</breed>
+        <age>4</age>
+        <gender>Male</gender>
+        <size>Medium</size>
+        <region>Munster</region>
+        <adoption_fee>260</adoption_fee>
+    </adoption>
+</adoptions>
